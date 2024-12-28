@@ -1,3 +1,4 @@
+<img alt="Python Developer Animation" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif">
 <h1 align="center">Hi 👋, I'm Naveet Kumar</h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
 <img align="right" alt="Python Developer Animation" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
